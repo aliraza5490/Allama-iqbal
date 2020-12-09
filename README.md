@@ -1,2 +1,2 @@
-# Allama Iqbal Triubute page
-
+# Allama Iqbal Triubute Page
+FreeCodeCamp Project
